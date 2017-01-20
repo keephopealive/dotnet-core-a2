@@ -10,6 +10,7 @@ namespace AspNetCore.Controllers
     {
         public IActionResult Index()
         {
+            
             return View();
         }
 
